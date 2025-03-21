@@ -18,7 +18,7 @@ The goal is to predict whether an individual:
 
 ### Processed Datasets:
 
-- **[`dataset/`](dataset_for_model_training/)** – Cleaned and engineered datasets used for model training.
+- **`dataset_for_model_training/`** – Cleaned and engineered datasets used for model training.
   - Includes versions tailored for different model architectures (e.g., categorical, numeric).
   
 - **[`combined_data.csv`](combined_data.csv)** – Merged and raw dataset (post-integration, pre-cleaning).
